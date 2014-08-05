@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GraphicsClass" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAgAAAAQAAAAAAAQAAAAAAAAAAABAAAAAAAAE=</HashCode>
+      <FileName>graphicsclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputClass" Collapsed="true">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAgQAAAAgAAgAAABAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>inputclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SystemClass" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAQAACAAAASAAgYAAAABQAAAABAAAAAM=</HashCode>
+      <FileName>systemclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
