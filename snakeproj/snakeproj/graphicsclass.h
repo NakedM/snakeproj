@@ -28,7 +28,7 @@ private:
 
 private:
 
-	D3DCalss* m_D3D;
+	D3DClass* m_D3D;
 
 };
 
