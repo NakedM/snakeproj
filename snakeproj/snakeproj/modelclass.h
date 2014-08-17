@@ -28,7 +28,7 @@ public:
 
 private:
 	bool InitializeBuffers(ID3D11Device*);
-	void ShutdownBuffer();
+	void ShutdownBuffers();
 	void RenderBuffers(ID3D11DeviceContext*);
 
 private:
